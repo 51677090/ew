@@ -1,3 +1,7 @@
 ew
 
-qeqsqws
+<<<<<<< HEAD
+qeqeqwe
+=======
+qeqeqwe
+>>>>>>> sd
